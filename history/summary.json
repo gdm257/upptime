@@ -4,17 +4,17 @@
     "url": "$SITE_STATUS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "status",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 918,
-    "timeDay": 1658,
-    "timeWeek": 852,
+    "time": 915,
+    "timeDay": 1227,
+    "timeWeek": 845,
     "timeMonth": 802,
-    "timeYear": 918,
+    "timeYear": 915,
     "dailyMinutesDown": {}
   }
 ]

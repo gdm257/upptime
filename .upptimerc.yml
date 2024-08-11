@@ -2,6 +2,7 @@
 owner: gdm257 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+delay: 200 # 0.2 seconds
 sites:
   - name: Status
     url: $SITE_STATUS

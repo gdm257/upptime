@@ -22,6 +22,8 @@ sites:
     url: $SITE_DUPLICATI
   - name: EteSync
     url: $SITE_ETESYNC
+    expectedStatusCodes:
+      - 400
   - name: Frp
     url: $SITE_FRP
   - name: Gitea

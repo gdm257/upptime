@@ -26,6 +26,9 @@ sites:
       - 400
   - name: Frp
     url: $SITE_FRP
+    expectedStatusCodes:
+      - 401
+      - 200
   - name: Gitea
     url: $SITE_GITEA
   - name: Grafana

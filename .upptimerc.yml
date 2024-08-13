@@ -87,9 +87,9 @@ status-website:
   #     href: https://github.com/$OWNER/$REPO
 
 i18n:
-  footer: ©[Upptime](https://upptime.js.org)
+  footer: © [Upptime](https://upptime.js.org)
   # Incident
-  incidentViewOnGitHub:
+  incidentViewOnGitHub: ""
   incidentCommentSummary: Posted at $DATE
 
 # Upptime also supports notifications, assigning issues, and more

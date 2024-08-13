@@ -51,6 +51,9 @@ sites:
     url: $SITE_PRIVATEBIN
   - name: Prometheus
     url: $SITE_PROMETHEUS
+    expectedStatusCodes:
+      - 400
+      - 200
   - name: Readeck
     url: $SITE_READECK
   - name: Rustpad

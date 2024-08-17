@@ -1,7 +1,7 @@
 url: $SITE_READECK
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-17T22:36:48.084Z
+status: up
+code: 200
+responseTime: 1513
+lastUpdated: 2024-08-17T22:51:37.235Z
 startTime: 2024-08-13T12:31:03.103Z
 generator: Upptime <https://github.com/upptime/upptime>

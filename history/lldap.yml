@@ -1,7 +1,7 @@
 url: $SITE_LLDAP
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-18T08:11:15.812Z
+status: up
+code: 200
+responseTime: 815
+lastUpdated: 2024-08-18T08:28:14.443Z
 startTime: 2024-08-13T12:30:48.299Z
 generator: Upptime <https://github.com/upptime/upptime>

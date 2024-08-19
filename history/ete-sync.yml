@@ -1,7 +1,7 @@
 url: $SITE_ETESYNC
-status: up
-code: 400
-responseTime: 954
-lastUpdated: 2024-08-18T23:43:35.203Z
+status: down
+code: 502
+responseTime: 2090
+lastUpdated: 2024-08-19T23:37:24.280Z
 startTime: 2024-08-13T12:30:37.393Z
 generator: Upptime <https://github.com/upptime/upptime>

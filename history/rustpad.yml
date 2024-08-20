@@ -1,7 +1,7 @@
 url: $SITE_RUSTPAD
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-20T07:38:52.453Z
+status: up
+code: 200
+responseTime: 624
+lastUpdated: 2024-08-20T07:46:10.347Z
 startTime: 2024-08-13T12:31:04.946Z
 generator: Upptime <https://github.com/upptime/upptime>

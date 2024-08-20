@@ -1,7 +1,7 @@
 url: $SITE_ARTALK
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-20T20:19:52.188Z
+status: up
+code: 200
+responseTime: 949
+lastUpdated: 2024-08-20T20:40:14.184Z
 startTime: 2024-08-13T12:30:30.223Z
 generator: Upptime <https://github.com/upptime/upptime>

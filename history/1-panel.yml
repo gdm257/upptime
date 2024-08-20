@@ -1,7 +1,7 @@
 url: $SITE_1PANEL
-status: down
-code: 404
-responseTime: 1358
-lastUpdated: 2024-08-20T15:43:31.905Z
+status: up
+code: 200
+responseTime: 891
+lastUpdated: 2024-08-20T15:51:51.156Z
 startTime: 2024-08-13T12:30:25.139Z
 generator: Upptime <https://github.com/upptime/upptime>

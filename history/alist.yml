@@ -1,7 +1,7 @@
 url: $SITE_ALIST
-status: down
-code: 404
-responseTime: 796
-lastUpdated: 2024-08-20T15:43:35.971Z
+status: up
+code: 200
+responseTime: 785
+lastUpdated: 2024-08-20T15:51:54.200Z
 startTime: 2024-08-11T13:02:16.922Z
 generator: Upptime <https://github.com/upptime/upptime>

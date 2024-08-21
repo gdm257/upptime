@@ -1,7 +1,7 @@
 url: $SITE_GRAFANA
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-21T20:30:01.618Z
+status: up
+code: 200
+responseTime: 1333
+lastUpdated: 2024-08-21T20:45:19.960Z
 startTime: 2024-08-13T12:30:46.631Z
 generator: Upptime <https://github.com/upptime/upptime>

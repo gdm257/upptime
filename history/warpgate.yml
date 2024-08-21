@@ -1,7 +1,7 @@
 url: $SITE_WARPGATE
-status: up
-code: 200
-responseTime: 871
-lastUpdated: 2024-08-21T20:46:08.706Z
+status: down
+code: 404
+responseTime: 762
+lastUpdated: 2024-08-21T22:15:55.774Z
 startTime: 2024-08-13T12:31:10.023Z
 generator: Upptime <https://github.com/upptime/upptime>

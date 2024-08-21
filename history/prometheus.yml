@@ -1,7 +1,7 @@
 url: $SITE_PROMETHEUS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-21T20:34:41.154Z
+status: up
+code: 400
+responseTime: 963
+lastUpdated: 2024-08-21T20:45:48.447Z
 startTime: 2024-08-13T12:30:58.957Z
 generator: Upptime <https://github.com/upptime/upptime>

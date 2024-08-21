@@ -1,7 +1,7 @@
 url: $SITE_FRP
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-21T23:24:51.710Z
+status: up
+code: 401
+responseTime: 972
+lastUpdated: 2024-08-21T23:37:54.267Z
 startTime: 2024-08-13T12:30:42.055Z
 generator: Upptime <https://github.com/upptime/upptime>

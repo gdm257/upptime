@@ -1,7 +1,7 @@
 url: $SITE_DOCKGE
-status: down
-code: 404
-responseTime: 1157
-lastUpdated: 2024-08-22T17:54:08.002Z
+status: up
+code: 200
+responseTime: 744
+lastUpdated: 2024-08-22T18:11:39.669Z
 startTime: 2024-08-13T12:30:34.313Z
 generator: Upptime <https://github.com/upptime/upptime>

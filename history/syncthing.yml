@@ -1,7 +1,7 @@
 url: $SITE_SYNCTHING
-status: up
-code: 200
-responseTime: 1138
-lastUpdated: 2024-08-22T07:26:51.395Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-08-22T09:32:17.212Z
 startTime: 2024-08-13T12:31:08.564Z
 generator: Upptime <https://github.com/upptime/upptime>

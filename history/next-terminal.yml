@@ -1,7 +1,7 @@
 url: $SITE_NEXTTERMINAL
-status: up
-code: 200
-responseTime: 699
-lastUpdated: 2024-08-22T07:26:19.851Z
+status: down
+code: 404
+responseTime: 785
+lastUpdated: 2024-08-22T09:31:53.111Z
 startTime: 2024-08-13T12:30:53.076Z
 generator: Upptime <https://github.com/upptime/upptime>

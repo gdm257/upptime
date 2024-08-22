@@ -1,7 +1,7 @@
 url: $SITE_MICROBIN
-status: down
-code: 404
-responseTime: 1305
-lastUpdated: 2024-08-22T09:31:49.699Z
+status: up
+code: 200
+responseTime: 1046
+lastUpdated: 2024-08-22T09:40:53.061Z
 startTime: 2024-08-13T12:30:51.917Z
 generator: Upptime <https://github.com/upptime/upptime>

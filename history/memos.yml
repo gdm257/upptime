@@ -1,7 +1,7 @@
 url: $SITE_MEMOS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-22T16:24:20.515Z
+status: up
+code: 200
+responseTime: 1261
+lastUpdated: 2024-08-22T16:40:04.342Z
 startTime: 2024-08-13T12:30:50.729Z
 generator: Upptime <https://github.com/upptime/upptime>

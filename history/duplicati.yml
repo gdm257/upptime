@@ -1,7 +1,7 @@
 url: $SITE_DUPLICATI
-status: down
-code: 502
-responseTime: 751
-lastUpdated: 2024-08-22T17:31:02.111Z
+status: up
+code: 200
+responseTime: 2059
+lastUpdated: 2024-08-22T17:38:19.643Z
 startTime: 2024-08-13T12:30:35.476Z
 generator: Upptime <https://github.com/upptime/upptime>

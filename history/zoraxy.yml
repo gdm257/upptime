@@ -1,7 +1,7 @@
 url: $SITE_ZORAXY
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-23T17:45:59.346Z
+status: up
+code: 200
+responseTime: 2154
+lastUpdated: 2024-08-23T17:53:39.504Z
 startTime: 2024-08-13T12:31:12.496Z
 generator: Upptime <https://github.com/upptime/upptime>

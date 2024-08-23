@@ -1,7 +1,7 @@
 url: $SITE_WHOAMI
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-23T18:42:13.061Z
+code: 404
+responseTime: 721
+lastUpdated: 2024-08-23T23:43:56.164Z
 startTime: 2024-08-13T12:31:11.263Z
 generator: Upptime <https://github.com/upptime/upptime>

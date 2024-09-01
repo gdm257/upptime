@@ -1,7 +1,7 @@
 url: $SITE_GRAFANA
 status: down
-code: 404
-responseTime: 835
-lastUpdated: 2024-08-31T23:43:30.951Z
+code: 0
+responseTime: 0
+lastUpdated: 2024-09-01T23:43:28.032Z
 startTime: 2024-08-13T12:30:46.631Z
 generator: Upptime <https://github.com/upptime/upptime>

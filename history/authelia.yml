@@ -1,7 +1,7 @@
 url: $SITE_AUTHELIA
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-07T23:43:35.786Z
+code: 404
+responseTime: 582
+lastUpdated: 2024-09-08T23:43:13.877Z
 startTime: 2024-08-13T12:30:31.605Z
 generator: Upptime <https://github.com/upptime/upptime>

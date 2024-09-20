@@ -4,72 +4,80 @@ repo: upptime # The name of this repository
 
 delay: 200 # 0.2 seconds
 sites:
-  - name: Status
-    url: $SITE_STATUS
-  - name: 1Panel
-    url: $SITE_1PANEL
+  - name: Fileio
+    url: $PUBLIC_FILEIO
+  - name: PasteBin
+    url: $PUBLIC_PASTEBIN
+  - name: ZeroBin
+    url: $PUBLIC_ZEROBIN
+  - name: EncryptedPastebin
+    url: $PUBLIC_ENCRYPTEDPASTEBIN
+  # - name: 1Panel
+  #   url: $SITE_1PANEL
   - name: Alist
     url: $SITE_ALIST
-  - name: Artalk
-    url: $SITE_ARTALK
-  - name: Authelia
-    url: $SITE_AUTHELIA
+  # - name: Artalk
+  #   url: $SITE_ARTALK
+  # - name: Authelia
+  #   url: $SITE_AUTHELIA
   - name: BitWarden
     url: $SITE_BITWARDEN
-  - name: Dockge
-    url: $SITE_DOCKGE
-  - name: Duplicati
-    url: $SITE_DUPLICATI
-  - name: EteSync
-    url: $SITE_ETESYNC
-    expectedStatusCodes:
-      - 400
-  - name: Frp
-    url: $SITE_FRP
-    expectedStatusCodes:
-      - 401
-      - 200
+  # - name: Dockge
+  #   url: $SITE_DOCKGE
+  # - name: Duplicati
+  #   url: $SITE_DUPLICATI
+  # - name: EteSync
+  #   url: $SITE_ETESYNC
+  #   expectedStatusCodes:
+  #     - 400
+  # - name: Frp
+  #   url: $SITE_FRP
+  #   expectedStatusCodes:
+  #     - 401
+  #     - 200
   - name: Gitea
     url: $SITE_GITEA
-  - name: Grafana
-    url: $SITE_GRAFANA
-  - name: LLDAP
-    url: $SITE_LLDAP
+  # - name: Grafana
+  #   url: $SITE_GRAFANA
+  # - name: LLDAP
+  #   url: $SITE_LLDAP
   - name: Matrix
     url: $SITE_MATRIX
-  - name: Memos
-    url: $SITE_MEMOS
-  - name: MicroBin
-    url: $SITE_MICROBIN
-  - name: Next-Terminal
-    url: $SITE_NEXTTERMINAL
-  - name: OpenGist
-    url: $SITE_OPENGIST
+  # - name: Memos
+  #   url: $SITE_MEMOS
+  # - name: MicroBin
+  #   url: $SITE_MICROBIN
+  # - name: Next-Terminal
+  #   url: $SITE_NEXTTERMINAL
+  # - name: OpenGist
+  #   url: $SITE_OPENGIST
   - name: Portainer
     url: $SITE_PORTAINER
-  - name: PrivateBin
-    url: $SITE_PRIVATEBIN
-  - name: Prometheus
-    url: $SITE_PROMETHEUS
-    expectedStatusCodes:
-      - 400
-      - 200
-  - name: Readeck
-    url: $SITE_READECK
-  - name: Rustpad
-    url: $SITE_RUSTPAD
-  - name: Rustypaste
-    url: $SITE_RUSTYPASTE
+  # - name: PrivateBin
+  #   url: $SITE_PRIVATEBIN
+  # - name: Prometheus
+  #   url: $SITE_PROMETHEUS
+  #   expectedStatusCodes:
+  #     - 400
+  #     - 200
+  # - name: Readeck
+  #   url: $SITE_READECK
+  # - name: Rustpad
+  #   url: $SITE_RUSTPAD
+  # - name: Rustypaste
+  #   url: $SITE_RUSTYPASTE
   - name: Stalwart
     url: $SITE_STALWART
-  - name: Syncthing
-    url: $SITE_SYNCTHING
+  # - name: Status
+  #   url: $SITE_STATUS
+  # - name: Syncthing
+  #   url: $SITE_SYNCTHING
   - name: Warpgate
     url: $SITE_WARPGATE
-  - name: WhoAmI
-    url: $SITE_WHOAMI
-  - name: Zoraxy
-    url: $SITE_ZORAXY
+  # - name: WhoAmI
+  #   url: $SITE_WHOAMI
+  # - name: Zoraxy
+  #   url: $SITE_ZORAXY
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

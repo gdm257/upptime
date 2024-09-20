@@ -5,13 +5,13 @@ repo: upptime # The name of this repository
 delay: 200 # 0.2 seconds
 sites:
   - name: Fileio
-    url: $PUBLIC_FILEIO
+    url: https://file.io
   - name: PasteBin
-    url: $PUBLIC_PASTEBIN
+    url: https://pastebin.com
   - name: ZeroBin
-    url: $PUBLIC_ZEROBIN
+    url: https://zerobin.net
   - name: EncryptedPastebin
-    url: $PUBLIC_ENCRYPTEDPASTEBIN
+    url: https://defuse.ca/pastebin.htm
   # - name: 1Panel
   #   url: $SITE_1PANEL
   - name: Alist

@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/file.io.ico",
     "slug": "fileio",
     "status": "up",
-    "uptime": "8.05%",
-    "uptimeDay": "8.05%",
-    "uptimeWeek": "8.05%",
-    "uptimeMonth": "8.05%",
-    "uptimeYear": "8.05%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1248,
     "timeDay": 1248,
     "timeWeek": 1248,
     "timeMonth": 1248,
     "timeYear": 1248,
-    "dailyMinutesDown": {
-      "2024-09-20": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PasteBin",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pastebin.com.ico",
     "slug": "paste-bin",
     "status": "up",
-    "uptime": "6.84%",
-    "uptimeDay": "6.84%",
-    "uptimeWeek": "6.84%",
-    "uptimeMonth": "6.84%",
-    "uptimeYear": "6.84%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 751,
     "timeDay": 751,
     "timeWeek": 751,
     "timeMonth": 751,
     "timeYear": 751,
-    "dailyMinutesDown": {
-      "2024-09-20": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ZeroBin",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/zerobin.net.ico",
     "slug": "zero-bin",
     "status": "up",
-    "uptime": "5.72%",
-    "uptimeDay": "5.72%",
-    "uptimeWeek": "5.72%",
-    "uptimeMonth": "5.72%",
-    "uptimeYear": "5.72%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 323,
     "timeDay": 323,
     "timeWeek": 323,
     "timeMonth": 323,
     "timeYear": 323,
-    "dailyMinutesDown": {
-      "2024-09-20": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "EncryptedPastebin",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/defuse.ca.ico",
     "slug": "encrypted-pastebin",
     "status": "up",
-    "uptime": "4.55%",
-    "uptimeDay": "4.55%",
-    "uptimeWeek": "4.55%",
-    "uptimeMonth": "4.55%",
-    "uptimeYear": "4.55%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 318,
     "timeDay": 318,
     "timeWeek": 318,
     "timeMonth": 318,
     "timeYear": 318,
-    "dailyMinutesDown": {
-      "2024-09-20": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alist",

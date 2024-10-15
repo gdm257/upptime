@@ -1,7 +1,7 @@
 url: https://file.io
-status: up
-code: 200
-responseTime: 519
-lastUpdated: 2024-10-15T11:51:13.851Z
+status: down
+code: 503
+responseTime: 254
+lastUpdated: 2024-10-15T14:19:28.782Z
 startTime: 2024-09-20T13:25:18.871Z
 generator: Upptime <https://github.com/upptime/upptime>

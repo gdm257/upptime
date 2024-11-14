@@ -51,8 +51,8 @@ sites:
   #   url: $SITE_NEXTTERMINAL
   # - name: OpenGist
   #   url: $SITE_OPENGIST
-  - name: Portainer
-    url: $SITE_PORTAINER
+  # - name: Portainer
+  #   url: $SITE_PORTAINER
   # - name: PrivateBin
   #   url: $SITE_PRIVATEBIN
   # - name: Prometheus
@@ -72,8 +72,8 @@ sites:
   #   url: $SITE_STATUS
   # - name: Syncthing
   #   url: $SITE_SYNCTHING
-  - name: Warpgate
-    url: $SITE_WARPGATE
+  # - name: Warpgate
+  #   url: $SITE_WARPGATE
   # - name: WhoAmI
   #   url: $SITE_WHOAMI
   # - name: Zoraxy

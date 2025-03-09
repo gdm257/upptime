@@ -1,7 +1,7 @@
 url: $SITE_STALWART
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-09T22:00:58.958Z
+status: up
+code: 200
+responseTime: 4562
+lastUpdated: 2025-03-09T22:16:48.108Z
 startTime: 2024-08-13T12:31:07.339Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -170,19 +170,19 @@
     "url": "$SITE_ALIST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alist",
-    "status": "up",
-    "uptime": "88.20%",
-    "uptimeDay": "71.71%",
-    "uptimeWeek": "87.93%",
+    "status": "down",
+    "uptime": "88.21%",
+    "uptimeDay": "71.63%",
+    "uptimeWeek": "87.91%",
     "uptimeMonth": "97.16%",
-    "uptimeYear": "88.20%",
+    "uptimeYear": "88.21%",
     "time": 2568,
-    "timeDay": 8375,
+    "timeDay": 8830,
     "timeWeek": 5811,
     "timeMonth": 4197,
     "timeYear": 2568,
     "dailyMinutesDown": {
-      "2025-05-23": 173,
+      "2025-05-23": 175,
       "2025-05-22": 583,
       "2025-05-21": 168,
       "2025-05-20": 188,
@@ -244,7 +244,7 @@
       "2024-09-05": 266,
       "2024-08-23": 102,
       "2024-08-22": 91,
-      "2024-08-21": 148
+      "2024-08-21": 125
     }
   },
   {
@@ -252,19 +252,19 @@
     "url": "$SITE_BITWARDEN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bit-warden",
-    "status": "up",
+    "status": "down",
     "uptime": "83.65%",
-    "uptimeDay": "73.84%",
-    "uptimeWeek": "89.69%",
+    "uptimeDay": "73.80%",
+    "uptimeWeek": "89.68%",
     "uptimeMonth": "97.57%",
     "uptimeYear": "83.65%",
     "time": 1961,
-    "timeDay": 7609,
+    "timeDay": 8121,
     "timeWeek": 5076,
     "timeMonth": 3528,
     "timeYear": 1961,
     "dailyMinutesDown": {
-      "2025-05-23": 177,
+      "2025-05-23": 178,
       "2025-05-22": 412,
       "2025-05-21": 161,
       "2025-05-20": 186,
@@ -339,8 +339,7 @@
       "2024-08-23": 97,
       "2024-08-22": 89,
       "2024-08-21": 106,
-      "2024-08-20": 33,
-      "2024-08-17": 16
+      "2024-08-20": 33
     }
   },
   {

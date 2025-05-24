@@ -429,9 +429,9 @@
     "url": "$SITE_MATRIX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "84.53%",
-    "uptimeDay": "63.56%",
+    "uptimeDay": "63.53%",
     "uptimeWeek": "85.16%",
     "uptimeMonth": "96.53%",
     "uptimeYear": "84.53%",
@@ -441,7 +441,7 @@
     "timeMonth": 4542,
     "timeYear": 1903,
     "dailyMinutesDown": {
-      "2025-05-24": 510,
+      "2025-05-24": 511,
       "2025-05-23": 270,
       "2025-05-22": 453,
       "2025-05-21": 109,
@@ -509,8 +509,7 @@
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 922,
-      "2024-08-23": 138,
-      "2024-08-22": 17
+      "2024-08-23": 138
     }
   },
   {

@@ -170,19 +170,19 @@
     "url": "$SITE_ALIST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alist",
-    "status": "up",
-    "uptime": "97.95%",
-    "uptimeDay": "66.07%",
-    "uptimeWeek": "81.22%",
+    "status": "down",
+    "uptime": "97.96%",
+    "uptimeDay": "65.94%",
+    "uptimeWeek": "81.20%",
     "uptimeMonth": "95.62%",
-    "uptimeYear": "97.95%",
+    "uptimeYear": "97.96%",
     "time": 2808,
     "timeDay": 9157,
     "timeWeek": 6625,
     "timeMonth": 5211,
     "timeYear": 2808,
     "dailyMinutesDown": {
-      "2025-05-24": 487,
+      "2025-05-24": 489,
       "2025-05-23": 361,
       "2025-05-22": 583,
       "2025-05-21": 168,
@@ -208,8 +208,7 @@
       "2025-01-09": 84,
       "2024-11-19": 814,
       "2024-11-18": 496,
-      "2024-11-17": 54,
-      "2024-11-16": 19
+      "2024-11-17": 54
     }
   },
   {
@@ -217,11 +216,11 @@
     "url": "$SITE_BITWARDEN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bit-warden",
-    "status": "up",
+    "status": "down",
     "uptime": "97.94%",
-    "uptimeDay": "63.77%",
-    "uptimeWeek": "83.33%",
-    "uptimeMonth": "96.11%",
+    "uptimeDay": "63.67%",
+    "uptimeWeek": "83.31%",
+    "uptimeMonth": "96.10%",
     "uptimeYear": "97.94%",
     "time": 2404,
     "timeDay": 10778,
@@ -229,7 +228,7 @@
     "timeMonth": 5426,
     "timeYear": 2404,
     "dailyMinutesDown": {
-      "2025-05-24": 522,
+      "2025-05-24": 523,
       "2025-05-23": 297,
       "2025-05-22": 412,
       "2025-05-21": 161,
@@ -255,8 +254,7 @@
       "2025-01-10": 1440,
       "2025-01-09": 83,
       "2024-11-19": 1014,
-      "2024-11-18": 495,
-      "2024-11-17": 17
+      "2024-11-18": 495
     }
   },
   {
@@ -433,9 +431,9 @@
     "slug": "matrix",
     "status": "down",
     "uptime": "84.53%",
-    "uptimeDay": "67.04%",
-    "uptimeWeek": "85.66%",
-    "uptimeMonth": "96.65%",
+    "uptimeDay": "66.60%",
+    "uptimeWeek": "85.60%",
+    "uptimeMonth": "96.63%",
     "uptimeYear": "84.53%",
     "time": 1893,
     "timeDay": 8838,
@@ -443,7 +441,7 @@
     "timeMonth": 4584,
     "timeYear": 1893,
     "dailyMinutesDown": {
-      "2025-05-24": 460,
+      "2025-05-24": 466,
       "2025-05-23": 270,
       "2025-05-22": 453,
       "2025-05-21": 109,

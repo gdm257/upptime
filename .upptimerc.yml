@@ -14,14 +14,14 @@ sites:
     url: https://defuse.ca/pastebin.htm
   # - name: 1Panel
   #   url: $SITE_1PANEL
-  - name: Alist
-    url: $SITE_ALIST
+  - name: OpenList
+    url: $SITE_OPENLIST
   # - name: Artalk
   #   url: $SITE_ARTALK
   # - name: Authelia
   #   url: $SITE_AUTHELIA
-  - name: BitWarden
-    url: $SITE_BITWARDEN
+  # - name: BitWarden
+  #   url: $SITE_BITWARDEN
   # - name: Dockge
   #   url: $SITE_DOCKGE
   # - name: Duplicati
@@ -35,8 +35,8 @@ sites:
   #   expectedStatusCodes:
   #     - 401
   #     - 200
-  - name: Gitea
-    url: $SITE_GITEA
+  # - name: Gitea
+  #   url: $SITE_GITEA
   # - name: Grafana
   #   url: $SITE_GRAFANA
   # - name: LLDAP
@@ -66,8 +66,8 @@ sites:
   #   url: $SITE_RUSTPAD
   # - name: Rustypaste
   #   url: $SITE_RUSTYPASTE
-  - name: Stalwart
-    url: $SITE_STALWART
+  # - name: Stalwart
+  #   url: $SITE_STALWART
   # - name: Status
   #   url: $SITE_STATUS
   # - name: Syncthing

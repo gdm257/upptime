@@ -4,6 +4,8 @@ repo: upptime # The name of this repository
 
 delay: 200 # 0.2 seconds
 sites:
+  - name: Disroot
+    url: https://cloud.disroot.org
   - name: Fileio
     url: https://file.io
   - name: PasteBin

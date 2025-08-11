@@ -4,9 +4,9 @@
     "url": "https://cloud.disroot.org",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.disroot.org.ico",
     "slug": "disroot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1238,
     "timeMonth": 1290,
     "timeYear": 1270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-11": 0
+    }
   },
   {
     "name": "Fileio",
@@ -190,11 +192,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "open-list",
     "status": "up",
-    "uptime": "96.87%",
+    "uptime": "96.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "95.73%",
-    "uptimeYear": "96.87%",
+    "uptimeYear": "96.89%",
     "time": 831,
     "timeDay": 768,
     "timeWeek": 820,

@@ -196,11 +196,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "open-list",
     "status": "up",
-    "uptime": "96.87%",
+    "uptime": "96.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.99%",
     "uptimeMonth": "97.90%",
-    "uptimeYear": "96.87%",
+    "uptimeYear": "96.88%",
     "time": 888,
     "timeDay": 633,
     "timeWeek": 1234,
@@ -227,12 +227,12 @@
     "url": "$SITE_MATRIX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "matrix",
-    "status": "up",
-    "uptime": "92.25%",
-    "uptimeDay": "98.20%",
+    "status": "down",
+    "uptime": "92.26%",
+    "uptimeDay": "98.18%",
     "uptimeWeek": "98.84%",
     "uptimeMonth": "98.10%",
-    "uptimeYear": "91.89%",
+    "uptimeYear": "91.90%",
     "time": 1798,
     "timeDay": 755,
     "timeWeek": 2268,
@@ -289,8 +289,7 @@
       "2025-03-08": 49,
       "2025-03-07": 341,
       "2025-03-06": 362,
-      "2025-03-05": 238,
-      "2025-03-04": 25
+      "2025-03-05": 238
     }
   }
 ]

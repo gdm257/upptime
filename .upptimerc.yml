@@ -43,8 +43,8 @@ sites:
   #   url: $SITE_GRAFANA
   # - name: LLDAP
   #   url: $SITE_LLDAP
-  - name: Matrix
-    url: $SITE_MATRIX
+  # - name: Matrix
+  #   url: $SITE_MATRIX
   # - name: Memos
   #   url: $SITE_MEMOS
   # - name: MicroBin

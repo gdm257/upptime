@@ -33,8 +33,8 @@
     "slug": "open-list",
     "status": "up",
     "uptime": "55.39%",
-    "uptimeDay": "16.72%",
-    "uptimeWeek": "2.39%",
+    "uptimeDay": "17.62%",
+    "uptimeWeek": "2.52%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "55.39%",
     "time": 1020,
@@ -133,17 +133,19 @@
     "url": "$SITE_TRAEFIK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "traefik",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 343,
-    "timeDay": 343,
-    "timeWeek": 343,
-    "timeMonth": 343,
-    "timeYear": 343,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "94.91%",
+    "uptimeDay": "94.91%",
+    "uptimeWeek": "94.91%",
+    "uptimeMonth": "94.91%",
+    "uptimeYear": "94.91%",
+    "time": 336,
+    "timeDay": 336,
+    "timeWeek": 336,
+    "timeMonth": 336,
+    "timeYear": 336,
+    "dailyMinutesDown": {
+      "2025-11-28": 13
+    }
   }
 ]

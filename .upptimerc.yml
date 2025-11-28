@@ -6,18 +6,16 @@ delay: 200 # 0.2 seconds
 sites:
   - name: Disroot
     url: https://cloud.disroot.org
-  - name: Fileio
-    url: https://file.io
-  - name: PasteBin
-    url: https://pastebin.com
-  - name: ZeroBin
-    url: https://zerobin.net
-  - name: EncryptedPastebin
-    url: https://defuse.ca/pastebin.htm
+  # - name: Fileio
+  #   url: https://file.io
+  # - name: PasteBin
+  #   url: https://pastebin.com
+  # - name: ZeroBin
+  #   url: https://zerobin.net
+  # - name: EncryptedPastebin
+  #   url: https://defuse.ca/pastebin.htm
   # - name: 1Panel
   #   url: $SITE_1PANEL
-  - name: OpenList
-    url: $SITE_OPENLIST
   # - name: Artalk
   #   url: $SITE_ARTALK
   # - name: Authelia
@@ -52,6 +50,8 @@ sites:
   # - name: Next-Terminal
   #   url: $SITE_NEXTTERMINAL
   # - name: OpenGist
+  - name: OpenList
+    url: $SITE_OPENLIST
   #   url: $SITE_OPENGIST
   # - name: Portainer
   #   url: $SITE_PORTAINER
@@ -75,6 +75,8 @@ sites:
   # - name: Syncthing
   #   url: $SITE_SYNCTHING
   # - name: Warpgate
+  - name: Traefik
+    url: $SITE_TRAEFIK
   #   url: $SITE_WARPGATE
   # - name: WhoAmI
   #   url: $SITE_WHOAMI

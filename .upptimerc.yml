@@ -50,8 +50,8 @@ sites:
   # - name: Next-Terminal
   #   url: $SITE_NEXTTERMINAL
   # - name: OpenGist
-  - name: OpenList
-    url: $SITE_OPENLIST
+  # - name: OpenList
+  #   url: $SITE_OPENLIST
   #   url: $SITE_OPENGIST
   # - name: Portainer
   #   url: $SITE_PORTAINER
@@ -75,8 +75,8 @@ sites:
   # - name: Syncthing
   #   url: $SITE_SYNCTHING
   # - name: Warpgate
-  - name: Traefik
-    url: $SITE_TRAEFIK
+  # - name: Traefik
+  #   url: $SITE_TRAEFIK
   #   url: $SITE_WARPGATE
   # - name: WhoAmI
   #   url: $SITE_WHOAMI

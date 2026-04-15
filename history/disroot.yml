@@ -1,7 +1,7 @@
 url: https://cloud.disroot.org
-status: up
-code: 200
-responseTime: 1450
-lastUpdated: 2026-04-15T01:07:03.159Z
+status: down
+code: 502
+responseTime: 744
+lastUpdated: 2026-04-15T14:00:18.970Z
 startTime: 2025-07-04T11:54:34.093Z
 generator: Upptime <https://github.com/upptime/upptime>

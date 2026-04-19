@@ -4,7 +4,7 @@
     "url": "https://cloud.disroot.org",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.disroot.org.ico",
     "slug": "disroot",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.90%",
@@ -16,6 +16,7 @@
     "timeMonth": 3836,
     "timeYear": 2555,
     "dailyMinutesDown": {
+      "2026-04-19": 0,
       "2026-04-15": 71,
       "2026-04-14": 141,
       "2026-04-10": 95,

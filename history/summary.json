@@ -4,17 +4,17 @@
     "url": "https://cloud.disroot.org",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.disroot.org.ico",
     "slug": "disroot",
-    "status": "down",
-    "uptime": "98.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.73%",
-    "time": 2456,
-    "timeDay": 1701,
-    "timeWeek": 2168,
-    "timeMonth": 1825,
-    "timeYear": 2456,
+    "status": "up",
+    "uptime": "98.71%",
+    "uptimeDay": "92.57%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "98.71%",
+    "time": 2452,
+    "timeDay": 1210,
+    "timeWeek": 1987,
+    "timeMonth": 1790,
+    "timeYear": 2452,
     "dailyMinutesDown": {
       "2025-08-11": 23,
       "2025-08-12": 25,
@@ -66,7 +66,8 @@
       "2026-04-24": 57,
       "2026-04-25": 214,
       "2026-04-27": 128,
-      "2026-04-28": 147
+      "2026-04-28": 147,
+      "2026-05-31": 107
     }
   }
 ]

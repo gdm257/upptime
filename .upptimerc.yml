@@ -108,10 +108,10 @@ i18n:
 # See https://upptime.js.org/docs/configuration
 
 workflowSchedule:
-  graphs: "40 2 * * *"
-  responseTime: "40 23 * * *"
-  staticSite: "40 3 * * *"
-  summary: "40 2 * * *"
-  updateTemplate: "40 2 * * *"
-  updates: "40 5 * * *"
-  uptime: "*/5 * * * *"
+  graphs: "40 2 * 12 *"
+  responseTime: "40 23 * 12 *"
+  staticSite: "40 3 * 12 *"
+  summary: "40 2 * 12 *"
+  updateTemplate: "40 2 * 12 *"
+  updates: "40 5 * 12 *"
+  uptime: "*/5 * * 12 *"
